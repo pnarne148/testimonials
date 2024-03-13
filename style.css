@@ -13,7 +13,7 @@ body{
     display: flex;
     background-color: hsl(210, 46%, 95%);
     font-family: 'Barlow Semi Condensed', sans-serif;
-    padding: 5% 11% 5% 11%;
+    padding: 7% 11% 0% 11%;
 }
 
 main{
